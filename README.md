@@ -1,5 +1,5 @@
-# vizitka-2023
+# Vizitka
 
-Šablona projektu pro cvičení práce s Gitem.
-
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+## PIF PIF PIF github
+Výsledek: (https://1reyd1.github.io/vizitka/).
+! [https://1reyd1.github.io/vizitka/](vizitka.png)
